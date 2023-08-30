@@ -7,7 +7,7 @@
 
     - A média dos canais r, g e b da imagem de origem
 
-    - 0.3*r + 0.59*g + 0.11*b da imagem de origem
+    - 0.3 * r + 0.59 * g + 0.11 * b da imagem de origem
 
 - Crie um Material que multiplique todos as cores de todos os pixels da imagem pela intensidade passada (0.0 ~10.0).
 
